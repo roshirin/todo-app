@@ -1,6 +1,6 @@
 # Todo-app
 
-[DEMO LINK](https://roshirin.github.io/Bike-shop-landing/)
+[DEMO LINK](https://roshirin.github.io/todo-app/)
 
 ### Manage your todos:
 1. To add a todo write input the title and press Enter
